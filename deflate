@@ -1,0 +1,4 @@
+unzip numpy-html.zip -d numpy
+unzip pandas.zip -d pandas
+unzip python-3.9.7-docs-html.zip -d python
+unzip scikit-learn-docs.zip -d sklearn
